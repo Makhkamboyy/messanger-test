@@ -1,0 +1,13 @@
+.card {
+    background-color: black;
+    width: 300px;
+    padding: 8px;
+}
+
+.card .card-img {
+    width: 300px;
+    border-radius: 8px;
+}
+.card .card-text {
+    color: white;
+}
